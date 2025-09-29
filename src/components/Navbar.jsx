@@ -41,7 +41,7 @@ const Navbar = () => {
               <div className="bg-emerald-500 p-2 rounded-lg">
                 <FaCode className="text-white text-xl" />
               </div>
-              <span className="text-white text-xl font-bold">CodeMaster</span>
+              <span className="text-white text-xl font-bold">CodeTutor</span>
             </Link>
           </div>
 
